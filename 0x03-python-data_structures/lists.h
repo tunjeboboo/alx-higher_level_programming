@@ -4,8 +4,6 @@
 #include <stdlib.h>
 /**
  * struct listint_s - singly linked list
- * owned by asofeyeje
- *
  * @n: integer
  * @next: points to the next node
  *
